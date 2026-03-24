@@ -1,0 +1,1 @@
+# notebook_exercicios_pandas_numpy
